@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "524188143942",
+    "project_id": "lich-app",
+    "storage_bucket": "lich-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524188143942:android:7e8df1fa7239fb131c9547",
+        "android_client_info": {
+          "package_name": "com.example.lich_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzaHMDcCFL-sStha3T2nx5Aqk2xSFnAbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524188143942:android:40bdf598f28892e61c9547",
+        "android_client_info": {
+          "package_name": "com.example.lunar_solar_calendar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzaHMDcCFL-sStha3T2nx5Aqk2xSFnAbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
